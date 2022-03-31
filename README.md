@@ -4,3 +4,4 @@ In this project we have give list of 50 dataset in csv format. Each dataset cont
 
 In this project we use nbeats model and took its reference from Daniel Bourke #youtube(it is a must watch video if want to learn this topic), and for revin normalization part i took reference from mskbarah25 #repo.
 
+File named "Implementing Nbeats with RevIN.ipynb" contains the total code and "nbeats_revin" has Nbeats model blocks and RevIn normalization part.
