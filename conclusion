@@ -1,4 +1,4 @@
-Everything works pretty well till "Fitting Nbeats Model with RevIN Normalization all the datasets" part but after that block my pc is taking too much time and constantly heating up and it gets completed with great difficulties, i jump to the next block in which i am loading models, my laptop hangs up everytime i run that block.
+Everything works pretty well till "Fitting Nbeats Model with RevIN Normalization all the datasets" part but after that block my pc is taking too much time and constantly heating up and it gets completed with great difficulties, i jump to the next block in which i am loading models, my laptop hangs up everytime i run that block,
 I think that it is because of my pc's processor.
 
 I think i can fix this problems using two solution, one that i can increase my pc's processing speed using gpu, or use better data pipeline method for data processing. But as it is already very late i am submitting it.
